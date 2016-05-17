@@ -12,7 +12,7 @@
 |                       | Bethe                                                    | Booz Allen Hamilton                                  | Flug                                                                                              |
 |-----------------------|----------------------------------------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | Morning (11:00-12:30) | Flowz: Towards an EDSL for Digital Signal Processing     | Typegrind: Type Preserving Heap Profiler for C++     | [C++14 Dependency Injection][]                                                                    |
-| Afternoon (2:00-3:30) | Proper Inheritance (Part 1)                              | CopperSpice: The Next Generation of Signals          | Practical Performance Practices                                                                   |
+| Afternoon (2:00-3:30) | Proper Inheritance (Part 1)                              | CopperSpice: The Next Generation of Signals          | [Practical Performance Practices][]                                                                   |
 | Afternoon (4:00-5:30) | Proper Inheritance (Part 2)                              | Metaprogramming for Dummies                          | [Monoids, Monads and Applicative Functors: Repeated Software Patterns][]                          |
 
 ## Wednesday, May 11
@@ -45,6 +45,7 @@
 | Afternoon (4:30-6:00) | [What is the Basic Interface?][]        | [The CPU Cache: Instruction Re-Ordering Made Obvious][]         | [No Sane Compiler would Optimize Atomics][]                                                    |
 
 [C++14 Dependency Injection]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/00_tuesday/cpp14_dependency_injection_library.pdf
+[Practical Performance Practices]: 00_tuesday/PracticalPerformancePractices.pdf
 [Monoids, Monads and Applicative Functors: Repeated Software Patterns]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/00_tuesday/monoids_monads_and_applicative_functors_repeated_software_patterns.pdf
 
 [C++14 Version of Boost.MSM-eUML]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/01_wednesday/cpp14_version_of_boost_msm_euml.pdf
